@@ -2,7 +2,7 @@
 
 Main repository for Geometric Algebra research
 
-##How to clone the repository
+## How to clone the repository
 
 Within the repository on Github, click the green button labeled <> CODE
 
@@ -30,7 +30,7 @@ Before advancing any further, look forward on how to create your own git branch 
 
 future merge problems.
 
-##How to create your own Git Branch
+## How to create your own Git Branch
 
 To create your own Git Branch for the first time, use the command
 `git branch branch_name`, replacing branch_name with whatever name you find fit.
@@ -39,7 +39,7 @@ To switch to the branch, use the command
 `git checkout branch_name`
 
 ## How to push to Git Repository
-
+p
 When pushing to repository, make sure you are within your own branch via `git branch`
 
 Check to make sure everything is ready to commit via `git status`
